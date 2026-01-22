@@ -1,4 +1,4 @@
-HACKBIO 
+
 STAGE ONE ANSWER
 Dashboards for Biology: Stop Treating Your Plots Like PowerPoint
 Introduction
